@@ -42668,11 +42668,11 @@ default:throw A.f(A.cS("no widget for "+p))}p=q.dx
 if(p==null)p=q.cy
 return A.Qj(r,r,new A.yk(new A.aqf(this,new A.nY(p,A.aAR(s,A.cT(0,200)),r)),r),r,r)}}
 A.aqf.prototype={
-$2(a,b){var s,r=null,q="Favorites",p=b.b,o=this.b,n=this.a
-if(p<450){p=A.ko(o,1)
-o=A.a([A.aAV(A.eQ(B.rf,r,r,r),"Home :)"),A.aAV(A.eQ(B.hh,r,r,r),q)],t.ur)
-s=n.d
-return A.f9(A.a([p,A.p4(!0,new A.wh(o,new A.aqd(n),s,r,r),!0,B.a8,!0,!0)],t.p),B.ac,B.an,B.b8)}else return A.iw(A.a([A.p4(!0,new A.zd(p>=600,A.a([A.aCG(A.eQ(B.rf,r,r,r),A.bd("Home",r,r,r,r,r,r,r)),A.aCG(A.eQ(B.hh,r,r,r),A.bd(q,r,r,r,r,r,r,r))],t.P2),n.d,new A.aqe(n),r),!0,B.a8,!0,!0),A.ko(o,1)],t.p),B.ac,B.an,B.b8)},
+$2(a,b){var s,r=null,q=b.b,p=this.b,o=this.a
+if(q<450){q=A.ko(p,1)
+p=A.a([A.aAV(A.eQ(B.rf,r,r,r),"Home :)"),A.aAV(A.eQ(B.hh,r,r,r),"Favorites")],t.ur)
+s=o.d
+return A.f9(A.a([q,A.p4(!0,new A.wh(p,new A.aqd(o),s,r,r),!0,B.a8,!0,!0)],t.p),B.ac,B.an,B.b8)}else return A.iw(A.a([A.p4(!0,new A.zd(q>=600,A.a([A.aCG(A.eQ(B.rf,r,r,r),A.bd("Home",r,r,r,r,r,r,r)),A.aCG(A.eQ(B.hh,r,r,r),A.bd("Favorites :)",r,r,r,r,r,r,r))],t.P2),o.d,new A.aqe(o),r),!0,B.a8,!0,!0),A.ko(p,1)],t.p),B.ac,B.an,B.b8)},
 $S:313}
 A.aqd.prototype={
 $1(a){var s=this.a
