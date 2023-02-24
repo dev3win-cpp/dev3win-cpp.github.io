@@ -35609,7 +35609,7 @@ if(s.$2(a,k)>0){j.b[b]=k
 b=p}}j.b[b]=a}}
 A.D0.prototype={
 I(a){var s=null
-return new A.qK(new A.pf(new A.WL(),s,s,s,A.auM(),A.atM(),t.xc),s,s,new A.tp(new A.tD(s),"Namer App :)",A.agX(s,A.amO(B.a0,B.Dr),!0),s),s,t.wt)}}
+return new A.qK(new A.pf(new A.WL(),s,s,s,A.auM(),A.atM(),t.xc),s,s,new A.tp(new A.tD(s),"Cool Names",A.agX(s,A.amO(B.a0,B.Dr),!0),s),s,t.wt)}}
 A.WL.prototype={
 $1(a){var s=t.pl
 return new A.iu(A.ahd(),A.a([],s),A.a([],s),$.bA())},
@@ -35634,11 +35634,11 @@ default:throw A.d(A.cl("no widget for "+p))}p=q.dx
 if(p==null)p=q.cy
 return new A.uH(new A.Cw(new A.a73(this,new A.nb(p,new A.qh(s,A.c8(0,200),r),r)),r),r)}}
 A.a73.prototype={
-$2(a,b){var s,r=null,q=b.b,p=this.b,o=this.a
-if(q<450){q=A.nr(p,1)
-p=A.a([A.aeG(A.nB(B.mn,r,r),"Home :)"),A.aeG(A.nB(B.ds,r,r),"Favorites :)")],t.wr)
-s=o.d
-return A.jn(A.a([q,A.ZU(!0,new A.qx(p,new A.a71(o),s,r,r),!0,B.al,!0,!0)],t.p),B.aM,B.ah,B.aB)}else return A.lN(A.a([A.ZU(!0,new A.tM(q>=600,A.a([A.afZ(A.nB(B.mn,r,r),A.hL("Home :()",r,r)),A.afZ(A.nB(B.ds,r,r),A.hL("Favorites :()",r,r))],t.jn),o.d,new A.a72(o),r),!0,B.al,!0,!0),A.nr(p,1)],t.p),B.ah,B.aB)},
+$2(a,b){var s,r=null,q="Favorites",p=b.b,o=this.b,n=this.a
+if(p<450){p=A.nr(o,1)
+o=A.a([A.aeG(A.nB(B.mn,r,r),"Home"),A.aeG(A.nB(B.ds,r,r),q)],t.wr)
+s=n.d
+return A.jn(A.a([p,A.ZU(!0,new A.qx(o,new A.a71(n),s,r,r),!0,B.al,!0,!0)],t.p),B.aM,B.ah,B.aB)}else return A.lN(A.a([A.ZU(!0,new A.tM(p>=600,A.a([A.afZ(A.nB(B.mn,r,r),A.hL("Home",r,r)),A.afZ(A.nB(B.ds,r,r),A.hL(q,r,r))],t.jn),n.d,new A.a72(n),r),!0,B.al,!0,!0),A.nr(o,1)],t.p),B.ah,B.aB)},
 $S:342}
 A.a71.prototype={
 $1(a){var s=this.a
