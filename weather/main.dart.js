@@ -52063,7 +52063,7 @@ r[1]=r[1]+s[1]
 r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 A.za.prototype={
-P(a){return new A.pJ(B.IY,"Flutter Demo",A.a8l(null,B.eH,null),null)}}
+P(a){return new A.pJ(B.IY,"Flutter weather ui test 2",A.a8l(null,B.eH,null),null)}}
 A.Cs.prototype={
 P(a){var s=null,r=t.p
 return new A.qW(A.KT(s,A.agk(A.wz(A.a([new A.hz(B.wO,A.mr(A.a([new A.yp(B.xo,new A.Y0(),s),new A.BL(!1,new A.Y1(),s)],r),B.a9,B.eF,B.aB),s),B.HW,B.BV],r),B.a9),!0),s,B.ue,1/0,s,s,1/0),s)}}
